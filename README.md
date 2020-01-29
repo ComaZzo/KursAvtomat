@@ -1,0 +1,2 @@
+# KursAvtomat
+Machine theory midterm
